@@ -1,2 +1,3 @@
-# DataBase
-Data Base Design (Laboratory) - Alzahra University
+# Database
+Database Design (Laboratory) - Alzahra University
+
