@@ -85,7 +85,6 @@ INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'مثلثا�
 INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'واحد‌های اندازه‌گیری زاویه',19,0);
 INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'نسبتهای مثلثاتی',19,0);
 INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'توابع مثلثاتی',19,0);
-INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'نسبتهای مثلثاتی',19,0);
 INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'توابع مثلثاتی',19,0);
 INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'درجه',20,1);
 INSERT INTO [dbo].[TOPIC] ( [NAME], [PARENTID], [ISLEAF]) VALUES ( N'رادیان',20,1);
